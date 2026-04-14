@@ -92,7 +92,7 @@ guvi_project/
 6. **Access the Application**
    - Open browser: `http://localhost/guvi_project/index.html`
 
-## 🎯 Usage
+##  Usage
 
 ### User Flow
 1. **Home Page**: Choose to register or login
@@ -125,7 +125,7 @@ guvi_project/
 - **Touch-Friendly**: Appropriate button sizes and spacing
 - **Cross-Browser**: Compatible with modern browsers
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ### MySQL (Authentication)
 ```sql
