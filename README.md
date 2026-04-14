@@ -2,7 +2,7 @@
 
 A comprehensive web application for user registration, authentication, and profile management built with modern web technologies and multiple database systems.
 
-## 🚀 Features
+##  Features
 
 - **User Registration**: Secure signup with email validation and password strength requirements
 - **User Authentication**: Login system with session management
@@ -11,7 +11,7 @@ A comprehensive web application for user registration, authentication, and profi
 - **Security First**: Prepared statements, password hashing, input validation, and CORS headers
 - **Multi-Database Architecture**: MySQL for auth, MongoDB for profiles, Redis for sessions
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **HTML5** - Semantic markup
@@ -29,7 +29,7 @@ A comprehensive web application for user registration, authentication, and profi
 - **Composer** - PHP dependency management
 - **XAMPP** - Local development environment
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 guvi_project/
@@ -53,7 +53,7 @@ guvi_project/
 └── README.md            # Project documentation
 ```
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - **XAMPP** (or similar PHP/MySQL environment)
@@ -109,7 +109,7 @@ guvi_project/
 | `php/login.php` | POST | User authentication |
 | `php/profile.php` | GET/POST | Profile data management |
 
-## 🔒 Security Features
+##  Security Features
 
 - **Prepared Statements**: All MySQL queries use prepared statements
 - **Password Hashing**: bcrypt algorithm for secure password storage
@@ -118,7 +118,7 @@ guvi_project/
 - **CORS Headers**: Proper cross-origin resource sharing configuration
 - **Email Validation**: RFC-compliant email format checking
 
-## 📱 Responsive Design
+##  Responsive Design
 
 - **Mobile-First**: Optimized for mobile devices
 - **Bootstrap Grid**: Responsive layout system
@@ -159,7 +159,7 @@ Value: {user_id}
 TTL: 3600 seconds
 ```
 
-## 🧪 Testing
+##  Testing
 
 ### Manual Testing Checklist
 - [ ] User registration with valid/invalid data
@@ -175,7 +175,7 @@ TTL: 3600 seconds
 - Safari 14+
 - Edge 90+
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -183,18 +183,18 @@ TTL: 3600 seconds
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Bootstrap** for responsive UI components
 - **jQuery** for simplified DOM manipulation
 - **MongoDB PHP Library** for database integration
 - **Predis** for Redis connectivity
 
-## 📞 Support
+##  Support
 
 For questions or issues:
 - Check the setup instructions
