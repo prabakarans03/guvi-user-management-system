@@ -1,0 +1,18 @@
+{
+    "name": "prabakaran/guvi_project",
+    "autoload": {
+        "psr-4": {
+            "Prabakaran\\GuviProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "prabakarans03",
+            "email": "pkaran53285@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^2.1",
+        "predis/predis": "^3.4"
+    }
+}
